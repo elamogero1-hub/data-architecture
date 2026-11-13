@@ -1,0 +1,31 @@
+producto_id,nombre_producto,categoria,marca,precio_unitario,costo_unitario,stock_actual,disponible
+PRD-0001,Laptop Pro 14 Gen-1,COMPUTO,TechNova,1250.0,890.0,50,True
+PRD-0002,Monitor UltraWide 34 Gen-1,MONITORES,ViewMax,480.0,310.0,78,True
+PRD-0003,Teclado Mecánico RGB Gen-1,PERIFERICOS,KeyMaster,95.0,48.0,205,True
+PRD-0004,Mouse Inalámbrico Ergo Gen-1,PERIFERICOS,KeyMaster,55.0,25.0,158,True
+PRD-0005,Docking Station USB-C Gen-1,ACCESORIOS,Connex,140.0,78.0,152,True
+PRD-0006,Disco SSD NVMe 1TB Gen-1,ALMACENAMIENTO,DataFast,115.0,65.0,82,True
+PRD-0007,Disco SSD NVMe 2TB Gen-1,ALMACENAMIENTO,DataFast,210.0,125.0,206,True
+PRD-0008,Memoria RAM DDR5 32GB Gen-1,COMPONENTES,HyperMem,130.0,75.0,164,True
+PRD-0009,Silla Ergonómica Ejecutiva Gen-1,MOBILIARIO,ComfortWork,320.0,185.0,124,True
+PRD-0010,Escritorio Elevable Eléctrico Gen-1,MOBILIARIO,ComfortWork,450.0,260.0,244,True
+PRD-0011,Laptop Pro 14 Gen-2,COMPUTO,TechNova,1350.0,961.2,164,True
+PRD-0012,Monitor UltraWide 34 Gen-2,MONITORES,ViewMax,518.4,334.8,117,True
+PRD-0013,Teclado Mecánico RGB Gen-2,PERIFERICOS,KeyMaster,102.6,51.84,107,True
+PRD-0014,Mouse Inalámbrico Ergo Gen-2,PERIFERICOS,KeyMaster,59.4,27.0,71,True
+PRD-0015,Docking Station USB-C Gen-2,ACCESORIOS,Connex,151.2,84.24,50,True
+PRD-0016,Disco SSD NVMe 1TB Gen-2,ALMACENAMIENTO,DataFast,124.2,70.2,145,True
+PRD-0017,Disco SSD NVMe 2TB Gen-2,ALMACENAMIENTO,DataFast,226.8,135.0,141,True
+PRD-0018,Memoria RAM DDR5 32GB Gen-2,COMPONENTES,HyperMem,140.4,81.0,38,True
+PRD-0019,Silla Ergonómica Ejecutiva Gen-2,MOBILIARIO,ComfortWork,345.6,199.8,208,True
+PRD-0020,Escritorio Elevable Eléctrico Gen-2,MOBILIARIO,ComfortWork,486.0,280.8,27,True
+PRD-0021,Laptop Pro 14 Gen-3,COMPUTO,TechNova,1450.0,1032.4,235,True
+PRD-0022,Monitor UltraWide 34 Gen-3,MONITORES,ViewMax,556.8,359.6,43,True
+PRD-0023,Teclado Mecánico RGB Gen-3,PERIFERICOS,KeyMaster,110.2,55.68,54,True
+PRD-0024,Mouse Inalámbrico Ergo Gen-3,PERIFERICOS,KeyMaster,63.8,29.0,175,True
+PRD-0025,Docking Station USB-C Gen-3,ACCESORIOS,Connex,162.4,90.48,55,True
+PRD-0026,Disco SSD NVMe 1TB Gen-3,ALMACENAMIENTO,DataFast,133.4,75.4,217,True
+PRD-0027,Disco SSD NVMe 2TB Gen-3,ALMACENAMIENTO,DataFast,243.6,145.0,189,True
+PRD-0028,Memoria RAM DDR5 32GB Gen-3,COMPONENTES,HyperMem,150.8,87.0,123,True
+PRD-0029,Silla Ergonómica Ejecutiva Gen-3,MOBILIARIO,ComfortWork,371.2,214.6,167,True
+PRD-0030,Escritorio Elevable Eléctrico Gen-3,MOBILIARIO,ComfortWork,522.0,301.6,31,True

@@ -1,0 +1,9 @@
+{
+  "project_id": "bsgroup-dev-test-1",
+  "bucket": "pe-cs-datalake-bsgroup",
+  "location": "US",
+  "landing_prefix": "landing/clinares",
+  "bronze_dataset": "bronze_clinares",
+  "silver_dataset": "silver_clinares",
+  "gold_dataset": "gold_clinares"
+}

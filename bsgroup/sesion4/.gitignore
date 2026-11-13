@@ -1,0 +1,25 @@
+# Python y entornos locales
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Paquetes de entrega y archivos del sistema
+*.zip
+.DS_Store
+Thumbs.db
+
+# Credenciales locales: no ignorar todos los JSON porque config/ es parte del ejemplo
+.env
+.env.*
+!.env.example
+credentials.json
+application_default_credentials.json
+service-account*.json
+service_account*.json
+*.pem
+*.key
+
+# Logs locales
+*.log
